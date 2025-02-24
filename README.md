@@ -37,3 +37,6 @@ O objetivo desse codigo fonte e aprender o basico de como o CodeIgniter 4 funcio
 1. Colocar a pasta do projeto devidamente na pasta do Xampp ou Wamp.
 2. Criar um banco de dados chamado weather_db e configurar no arquivo Database.php
 3. Gerar um Api Key da OpenWeather e colocaca-la na variavel apiKey no arquivo WeatherController.php
+
+
+![alt text](weather_dashboard.jpg)
